@@ -5,6 +5,9 @@ body {
   text-align: center;
   width: 1000px;
 }
+.row{
+  width: 100%;
+}
 
 dl {
   background: #c3c3c3;
